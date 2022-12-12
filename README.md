@@ -25,7 +25,11 @@ cd $HOME
 # clone this repository - 
 git clone https://github.com/Mikelodoen/Ngrok-Install
 
+# Enter the directory
+cd Ngrok-Install
+
 # adding permissions 
+chmod +x install
 
 # to install it, run -
 ./install
