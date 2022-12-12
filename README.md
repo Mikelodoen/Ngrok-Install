@@ -29,7 +29,7 @@ git clone https://github.com/Mikelodoen/Ngrok-Install
 cd Ngrok-Install
 
 # adding permissions 
-chmod +x install
+chmod 777 install
 
 # to install it, run -
 ./install
