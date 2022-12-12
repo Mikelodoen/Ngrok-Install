@@ -16,7 +16,7 @@
 
 Simple ngrok install script for [Termux](https://termux.com) terminal emulator.
 
-> **`Ngrok` é uma ferramenta CLI (Comand Line Interface) que te permite criar um túnel seguro, atrás de NATs e Firewalls, que expõem serviços locais para a Internet, tudo isso de forma fácil e segura.**
+> **`Ngrok` Ngrok is a small command line program that allows you to create a secure connection tunnel from your localhost and publish it on the internet . It is cross-platform and can be used on Windows, Linux and Mac OS X.**
 
 ```bash
 # go to home dir - 
