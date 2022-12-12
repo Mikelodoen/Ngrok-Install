@@ -35,7 +35,7 @@ git clone https://github.com/Mikelodoen/Ngrok-Install
 
 ### Run
 
-Run `install` & And press enter to install
+Run `install` & And press Y to install
 
 
 ```bash
