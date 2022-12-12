@@ -23,10 +23,9 @@ Simple ngrok install script for [Termux](https://termux.com) terminal emulator.
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/Mikelodoen/Ngrok-Install
 
-# change to termux-style dir -
-cd termux-style
+# adding permissions 
 
 # to install it, run -
 ./install
@@ -36,4 +35,20 @@ cd termux-style
 
 ### Run
 
-Run `termux-style` & select the right option -
+Run `install` & And press enter to install
+
+
+```bash
+                        _
+  _ __   __ _ _ __ ___ | | __                               |  _ \ / _  |  __/ _ \| |/ /
+ | | | | (_| | | | (_) |   <
+ |_| |_|\__, |_|  \___/|_|\_\
+        |___/
+                 ___           _        _ _
+                |_ _|_ __  ___| |_ __ _| | |
+                 | ||  _ \/ __| __/ _  | | |
+                 | || | | \__ \ || (_| | | |
+                |___|_| |_|___/\__\__,_|_|_|
+
+Deseja instalar o Ngrok? [Y/n]
+```
